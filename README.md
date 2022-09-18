@@ -2,7 +2,7 @@
 
 This page was designed to look good **on dark mode**, give it a try!
 
-I'm a newbie coder who is interested in a lot of things related to programming & crypto world. I would say that my end goal is to be a front end specialist with some back end skills, but at the moment, this early in my career, I'm trying to learn as much as I can and working to my my project portfolio to showcase my coding skills to potential employers.
+I'm a newbie coder who is interested in a lot of things related to programming & crypto world. I would say that my end goal is to be a front end specialist with some back end skills, but at the moment, this early in my career, I'm trying to learn as much as I can and working to my project portfolio to showcase my coding skills to potential employers.
 
 👨‍💻 I'm currently working as a front end developer for a company in Bucharest with JavaScript, ReactJS, Knockout.js & PHP technologies.
 <br/>
