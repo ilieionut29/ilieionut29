@@ -8,12 +8,13 @@ My focus is on building apps with a strong focus on security and performance usi
 
 My experience includes ensuring smooth deployments with Jenkins and maintaining high code quality through Jest and Playwright.
 
-More about me:
-www.jonu.dev
-cv.jonu.dev
-
 ⭐ My goal is pretty simple: build great things with great people. If we can work together to achieve that, <a href="mailto:ilie.ionut29@yahoo.com">I'd love to chat 👋 </a>
-<br/>
-📫 Reach me on <a href="https://www.linkedin.com/in/ilieionut/" target="_blank">LinkedIn</a>
+
+📫 or you can reach me on <a href="https://www.linkedin.com/in/ilieionut/" target="_blank">LinkedIn</a>
+
+More about me:
+<a href="https://www.jonu.dev" target="_blank">www.jonu.dev</a>
+<a href="https://cv,jonu.dev" target="_blank">cv.jonu.dev</a>
+
 
 ...more coming soon 😊
